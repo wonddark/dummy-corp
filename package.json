@@ -1,0 +1,25 @@
+{
+  "name": "dummycorp",
+  "version": "1.0.0",
+  "description": "An application to learn and play with HubSpot app's integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonddark/dummy-corp.git"
+  },
+  "keywords": [
+    "'hubspot",
+    "demo'",
+    "'hubspot",
+    "integration'"
+  ],
+  "author": "Osmanys Fuentes-Lombá",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/wonddark/dummy-corp/issues"
+  },
+  "homepage": "https://github.com/wonddark/dummy-corp#readme"
+}
