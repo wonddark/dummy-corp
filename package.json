@@ -4,7 +4,7 @@
   "description": "An application to learn and play with HubSpot app's integration",
   "main": "index.js",
   "scripts": {
-    "start": "npm index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
